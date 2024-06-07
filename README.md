@@ -56,7 +56,7 @@ A simple AI mathematician powered by OpenAI's GPT-4o model.
 
 ## Python  Implementation 👨‍🔬
 
-1) Network Used- Convolutional Neural Network
+1) Network Used- Convolutional Neural Network(CNN)
 2) Hand Tracking - Mediapipe
 
 If you face any problem, kindly raise an issue
