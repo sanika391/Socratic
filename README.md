@@ -15,7 +15,7 @@ You can install Conda for python which resolves all the dependencies for machine
 
 `pip install -r requirements.txt`
 
-## Modules
+## Modules:
 - Socratic Equation Solver
 - Socratic Plotter
 
