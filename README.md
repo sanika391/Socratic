@@ -34,7 +34,7 @@ The Socratic module utilizes artificial intelligence to accurately predict which
 - Multiply ✖️
 - Pi 🥧
 
-## Socratic Plotter
+## Socratic Plotter:
 #### Description 🐦
 The Socratic plotter module utilizes artificial intelligence to accurately predict the equation and plots a graph for students.
 
